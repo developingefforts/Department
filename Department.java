@@ -2,8 +2,8 @@
 /**
  * Write a description of class Department here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author (Yeneisy Morocho)
+ * @version (April 15 2023)
  */
 import java.util.Random;
 import java.util.Scanner;
