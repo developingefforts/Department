@@ -2,8 +2,8 @@
 /**
  * Write a description of class Humanities here.
  *
- * @author (Yeneisy Morocho)
- * @version (April 15 2023)
+ * @author (your name)
+ * @version (a version number or date)
  */
 import java.util.Random;
 public class Humanities extends Department
