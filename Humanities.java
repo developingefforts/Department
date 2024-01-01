@@ -3,7 +3,7 @@
  * Write a description of class Humanities here.
  *
  * @author (your name)
- * @version (a version number or date)
+ * @version (a version number or a date)
  */
 import java.util.Random;
 public class Humanities extends Department
