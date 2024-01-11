@@ -7,6 +7,4 @@ all they need to know. The comments should usually include at least:
 PROJECT TITLE: Department
 PURPOSE OF PROJECT: Using Object-Oriented Programming to create a set of classes
 VERSION or DATE: April 15, 2023
-HOW TO START THIS PROJECT: Compile code on any Java platform.
 AUTHORS: Yeneisy Morocho
-USER INSTRUCTIONS: N/A
